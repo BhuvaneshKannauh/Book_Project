@@ -31,7 +31,7 @@ export class BookListComponent implements AfterViewInit{
 
   ListOfBooks:any[]=[
     {title: 'Harry Potter', author:'J K Rowling', genre:'Fantasy', year:'2002'},
-    {title: 'Mission Impossible', author:'Yedikum Anand', genre:'Thriller', year:'2007'},
+    {title: 'Mission Impossible', author:'Bruce Geller', genre:'Thriller', year:'2007'},
     {title: 'Kanchana', author:'Lawrence', genre:'Horror', year:'2012'}
   ];
 
