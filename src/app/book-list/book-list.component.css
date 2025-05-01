@@ -1,0 +1,15 @@
+
+
+  .title:hover{
+      cursor: pointer;
+      color: blue;
+      text-decoration: underline;
+  }
+
+  .readingList{
+    width: 50%;
+  }
+
+  th{
+    background-color: purple;
+  }
